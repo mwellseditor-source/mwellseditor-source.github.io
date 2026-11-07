@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.mwellseditor.charityshopfinder",
+      "sha256_cert_fingerprints": ["9C:BA:1E:9F:5A:C4:8F:DC:E7:37:74:7E:53:A4:D4:0E:8C:41:03:E9:86:51:4D:9B:90:7B:DF:F3:84:F1:C8:52"]
+    }
+  }
+]
